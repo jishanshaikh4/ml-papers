@@ -2,4 +2,4 @@
 
 Papers included so far:
 
-- 1 Progressive growing of GANs for improved quality, stability, and variation.
+1. Bag of Tricks for Efficient Text Classification.
