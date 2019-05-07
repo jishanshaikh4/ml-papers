@@ -3,3 +3,4 @@
 Papers included so far:
 
 1. Bag of Tricks for Efficient Text Classification.
+2. The Consciousness Prior.
