@@ -2,5 +2,5 @@
 
 Papers included so far-
 
-1. NA
+1. Shall I Compare Thee to a Machine-Written Sonnet? An Approach to Algorithmic Sonnet Generation
 2. NA
