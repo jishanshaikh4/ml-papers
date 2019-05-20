@@ -2,6 +2,6 @@
 
 Papers included so far-
 
-- NA
-- NA
-- NA
+1. Exploring the Neural Algorithm of Artistic Style
+2. Unsupervised Image-to-Image Translation Networks
+3. Sequence to Sequence Learning with Neural Networks
