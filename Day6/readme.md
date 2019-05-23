@@ -2,6 +2,6 @@
 
 Papers included so far-
 
-1. NA
-2. NA
-3. NA
+1. Opportunities in Machine Learning for Particle Accelerators
+2. Explaining Deep Learning Models using Causal Inference
+3. Towards Formula Translation using Recursive Neural Networks
