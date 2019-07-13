@@ -8,11 +8,11 @@ These are the papers I am using to improve my Machine Learning (and AI too) know
 
 ## License
 
-The papers are mostly collected from open sources. If someone finds it restricted, do notify by a pull request. These are for learning purposes, no commercial use of them allowed. They are provided as it is, without any WARRENTY. COPYRIGHT IS OWNED BY RESPECTIVE AUTHORS, PUBLISHERS, INSTITUTES, ACADEMIA, etc.
+The papers are mostly collected from open sources (arXiv.org). If someone finds it restricted, do notify by a pull request. These are for learning purposes, no commercial use of them allowed. They are provided as it is, without any WARRENTY. COPYRIGHT IS OWNED BY RESPECTIVE AUTHORS, PUBLISHERS, INSTITUTES, ACADEMIA, etc.
 
 ## Future works
 
-- Complete upto Day-100 each having at least 3 papers [WORKING ON IT]
+- Complete upto Day-100 each having at least 3 papers [COMPLETED]
 - Indicate the level of difficulty to each paper [NOT DONE YET]
 - Indicate the *quality* of each paper e.g. high quality, low quality, technical report, student project, etc. [NOT DONE YET]
 - Increase the number of papers in a day from 3 to 10 [NOT DONE YET]
